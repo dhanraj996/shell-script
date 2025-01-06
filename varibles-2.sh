@@ -1,0 +1,12 @@
+#!bin/bash
+
+PERSON1=$1
+PERSON2=$2
+
+echo "$PERSON1 :: HI $PERSON2"
+
+echo "$PERSON2 HELLO :: $PERSON2"
+
+echo "$PERSON1 :: HOW ARE YOU DOING? $PERSON2"
+
+echo "$PERSON2 :: I AM GOOD HOW ARE YOU? $PERSON1"
