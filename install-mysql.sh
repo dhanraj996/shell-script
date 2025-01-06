@@ -2,7 +2,7 @@
 
 #chek the user have root access or not
 
-USERID = $(id -u)
+USERID=$(id -u)
 
 if[ $USERID -ne 0 ]
 then
